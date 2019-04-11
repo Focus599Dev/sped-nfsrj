@@ -1,6 +1,6 @@
 <?php
 
-namespace NFe\PHP\NFS\RJ
+namespace NFe\PHP\NFS\RJ;
 
 use NFePHP\NFS\RJ\Common\Tools as ToolsCommon;
 
