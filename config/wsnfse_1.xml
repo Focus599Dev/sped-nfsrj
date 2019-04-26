@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+    <UF>
+        <sigla>RJ</sigla>
+        <homologacao>
+            <ConsultarNfse method='ConsultarNfse' operation='ConsultarNfse' version='1'>https://homologacao.notacarioca.rio.gov.br/WSNacional/nfse.asmx</ConsultarNfse>
+        </homologacao>
+        <producao>
+            <ConsultarNfse method='ConsultarNfse' operation='ConsultarNfse' version='1'>https://notacarioca.rio.gov.br/WSNacional/nfse.asmx</ConsultarNfse>
+        </producao>
+    </UF>
+</WS>
